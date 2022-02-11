@@ -1,0 +1,16 @@
+C:\Users\Poseidon\Desktop\Pratikler\while-foreach\obj\Debug\net5.0\while-foreach.csproj.AssemblyReference.cache
+C:\Users\Poseidon\Desktop\Pratikler\while-foreach\obj\Debug\net5.0\while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poseidon\Desktop\Pratikler\while-foreach\obj\Debug\net5.0\while-foreach.AssemblyInfoInputs.cache
+C:\Users\Poseidon\Desktop\Pratikler\while-foreach\obj\Debug\net5.0\while-foreach.AssemblyInfo.cs
+C:\Users\Poseidon\Desktop\Pratikler\while-foreach\obj\Debug\net5.0\while-foreach.csproj.CoreCompileInputs.cache
+C:\Users\Poseidon\Desktop\Pratikler\while-foreach\bin\Debug\net5.0\while-foreach.exe
+C:\Users\Poseidon\Desktop\Pratikler\while-foreach\bin\Debug\net5.0\while-foreach.deps.json
+C:\Users\Poseidon\Desktop\Pratikler\while-foreach\bin\Debug\net5.0\while-foreach.runtimeconfig.json
+C:\Users\Poseidon\Desktop\Pratikler\while-foreach\bin\Debug\net5.0\while-foreach.runtimeconfig.dev.json
+C:\Users\Poseidon\Desktop\Pratikler\while-foreach\bin\Debug\net5.0\while-foreach.dll
+C:\Users\Poseidon\Desktop\Pratikler\while-foreach\bin\Debug\net5.0\ref\while-foreach.dll
+C:\Users\Poseidon\Desktop\Pratikler\while-foreach\bin\Debug\net5.0\while-foreach.pdb
+C:\Users\Poseidon\Desktop\Pratikler\while-foreach\obj\Debug\net5.0\while-foreach.dll
+C:\Users\Poseidon\Desktop\Pratikler\while-foreach\obj\Debug\net5.0\ref\while-foreach.dll
+C:\Users\Poseidon\Desktop\Pratikler\while-foreach\obj\Debug\net5.0\while-foreach.pdb
+C:\Users\Poseidon\Desktop\Pratikler\while-foreach\obj\Debug\net5.0\while-foreach.genruntimeconfig.cache
